@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCTestWebApp", "TCTestWebApp\TCTestWebApp.csproj", "{0CB0B27F-0309-4461-8430-0E6CE87A9D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCTestWebApp.Tests", "TCTestWebApp.Tests\TCTestWebApp.Tests.csproj", "{F6534D26-1839-4D7A-B842-593A1B250EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB0B27F-0309-4461-8430-0E6CE87A9D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB0B27F-0309-4461-8430-0E6CE87A9D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB0B27F-0309-4461-8430-0E6CE87A9D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB0B27F-0309-4461-8430-0E6CE87A9D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6534D26-1839-4D7A-B842-593A1B250EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6534D26-1839-4D7A-B842-593A1B250EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6534D26-1839-4D7A-B842-593A1B250EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6534D26-1839-4D7A-B842-593A1B250EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB31B1AF-A18B-46A5-B7F8-DC02842898D6}
+	EndGlobalSection
+EndGlobal
